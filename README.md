@@ -23,5 +23,3 @@ Read Tutorial: [web3.hashnode.com](url)
 
 ![Solidity Tutorial: Creating An Ethereum dApp with Ethers.js](https://user-images.githubusercontent.com/58919619/167926315-9fba5671-cfc5-4448-8f5a-5d1e3a7f4804.png)
 
-the end. test
-
